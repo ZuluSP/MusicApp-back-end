@@ -1,0 +1,8 @@
+version: '3'
+services:
+  test-mongodb:
+      image: mongo:5.0.8
+      container_name: test-mongodb
+      ports:
+      - "27021:27017"
+      restart: "on-failure"
