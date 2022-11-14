@@ -1,0 +1,17 @@
+[
+    {
+        "id": "3fbe02cf-f3b9-4d20-af49-8ed68a8edcd1",
+        "name": "carlos" ,
+        "password": "123"
+    },
+    {
+        "id": "1faa2d4a-b40c-4f05-a3be-dc9735af6f52",
+        "name": "carla" ,
+        "password": "123"
+    },
+    {
+        "id": "4b6e801a-f0bc-4bfd-8e21-69bb57093a1d",
+        "name": "mario" ,
+        "password": "123"
+    }
+]
